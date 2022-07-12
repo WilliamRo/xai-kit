@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: Please cite this library as below.
+title: xai-kit
+type: software
+authors:
+  - given-names: Wei
+    family-names: Luo
+    email: luo.wei@zju.edu.cn
+    affiliation: Zhejiang University
+    orcid: 'https://orcid.org/0000-0001-5768-0586'
